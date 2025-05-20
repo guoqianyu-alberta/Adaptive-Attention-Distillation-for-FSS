@@ -1,5 +1,5 @@
 # ACALF
-Pytorch implementation for "Few-Shot Hard Sample Segmentation: Bridging the Gap for Real-World Challenges"
+Pytorch implementation for "Adaptive Attention Distillation for Robust Few-Shot Segmentation under Environmental Perturbations"
 ![image](https://github.com/user-attachments/assets/922b30d4-d6d9-47df-8009-644e092c532e)
 # Requirements
 detectron2==0.6
